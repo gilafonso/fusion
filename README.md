@@ -1,1 +1,1 @@
-This is a website with a responsive design, developed with bootstrap (css and javascript components).
+This website was developed with bootstrap (css and javascript components), assuring it has a responsive design.
